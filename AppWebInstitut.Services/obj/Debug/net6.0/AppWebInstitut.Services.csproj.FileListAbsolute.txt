@@ -1,0 +1,15 @@
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\bin\Debug\net6.0\AppWebInstitut.Services.deps.json
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\bin\Debug\net6.0\AppWebInstitut.Services.dll
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\bin\Debug\net6.0\AppWebInstitut.Services.pdb
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\bin\Debug\net6.0\AppWebInstitut.DataAccess.dll
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\bin\Debug\net6.0\AppWebInstitut.DataAccess.pdb
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\AppWebInstitut.Services.csproj.AssemblyReference.cache
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\AppWebInstitut.Services.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\AppWebInstitut.Services.AssemblyInfoInputs.cache
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\AppWebInstitut.Services.AssemblyInfo.cs
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\AppWebInstitut.Services.csproj.CoreCompileInputs.cache
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\AppWebInstitut.Services.csproj.CopyComplete
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\AppWebInstitut.Services.dll
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\refint\AppWebInstitut.Services.dll
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\AppWebInstitut.Services.pdb
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.Services\obj\Debug\net6.0\ref\AppWebInstitut.Services.dll
