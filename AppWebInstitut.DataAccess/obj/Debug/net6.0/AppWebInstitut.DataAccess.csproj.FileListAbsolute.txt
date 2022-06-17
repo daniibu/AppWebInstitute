@@ -1,0 +1,12 @@
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\bin\Debug\net6.0\AppWebInstitut.DataAccess.deps.json
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\bin\Debug\net6.0\AppWebInstitut.DataAccess.dll
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\bin\Debug\net6.0\AppWebInstitut.DataAccess.pdb
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\AppWebInstitut.DataAccess.csproj.AssemblyReference.cache
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\AppWebInstitut.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\AppWebInstitut.DataAccess.AssemblyInfoInputs.cache
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\AppWebInstitut.DataAccess.AssemblyInfo.cs
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\AppWebInstitut.DataAccess.csproj.CoreCompileInputs.cache
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\AppWebInstitut.DataAccess.dll
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\refint\AppWebInstitut.DataAccess.dll
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\AppWebInstitut.DataAccess.pdb
+c:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\visualstudiocode\AppWedInstitut\AppWebInstitut.DataAccess\obj\Debug\net6.0\ref\AppWebInstitut.DataAccess.dll
